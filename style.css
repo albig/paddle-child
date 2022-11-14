@@ -1,0 +1,52 @@
+/*
+Theme Name: Paddle Child
+Description: Ein paar Gestaltungsanpassungen für
+Author: Alexander Bigga
+Author URI: https://www.dresden-west.de
+Template: paddle
+Version: 1.0
+Tags:
+*/
+
+/* reduce space before and after h2 */
+@media screen and (min-width: 77.5em) {
+        h2, .entry-content h2,
+        .entry-summary h2,
+        .comment-content h2,
+        .textwidget h2, .page-content h2 {
+                margin: 1em 0; }
+}
+
+/* reduce spaces in sidebar */
+.widget-area .widget {
+        margin: 0 0 2.5em;
+}
+
+/* make galleries a bit nicer (or not ;-)) */
+figure.wp-block-gallery.has-nested-images {
+    align-items: normal;
+    border: 1px solid lightgrey;
+    background-color: #f7fdef;
+    padding: 10px;
+}
+
+/* keep the link color in navigation white */
+#masthead [data-header-style="1"] ul li a:hover,
+#masthead [data-header-style="1"] ul li:hover > a,
+#masthead [data-header-style="1"] .current_page_item > a,
+#masthead [data-header-style="1"] .current-menu-item > a,
+#masthead [data-header-style="1"] .current_page_ancestor > a,
+#masthead [data-header-style="1"] .current-menu-ancestor > a,
+#masthead [data-header-style="1"] ul li a:focus,
+#masthead [data-header-style="1"] ul li a:hover {
+	color: white !important;
+}
+
+.entry-content {
+        padding: 1rem 0 1rem;
+}
+
+/* make hamburger menu in mobile green - even in dark mode */
+.toggler button.navbar-toggler span {
+        background-color: #5fa031;;
+}

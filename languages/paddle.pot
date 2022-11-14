@@ -1,0 +1,1151 @@
+# Copyright (C) 2022 Abidemi Kusimo
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paddle 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/paddle\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-08T21:33:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: paddle\n"
+
+#. Theme Name of the theme
+msgid "Paddle"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/kusimo/paddle"
+msgstr ""
+
+#. Description of the theme
+msgid "<code>Paddle</code> is a theme built with <code>Bootstrap5</code> and underscores framework. You can easily customize the theme to fit your purpose. The theme comes with <code>Modal Search</code> <code>Off Canvass menu slider</code>, and <code>colour settings</code> to help match your brand with your site. Also, includes <code>post layout</code>; you can choose to have two column layout and <code>sidebar</code> on the right or one column layout (Full width). <code>Call to Action (CTA)</code> button on the menu bar. The theme option provides features that will drive your site to the next level. For the developers, you can find all the files needed at the theme URI."
+msgstr ""
+
+#. Author of the theme
+msgid "Abidemi Kusimo"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:50
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:88
+msgid "Primary"
+msgstr ""
+
+#: functions.php:89
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:176
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:178
+msgid "This widget displays the sidebar."
+msgstr ""
+
+#: functions.php:188
+msgid "After Single Product Page"
+msgstr ""
+
+#: functions.php:190
+msgid "This widget is displayed on product page after single product."
+msgstr ""
+
+#: functions.php:200
+msgid "After Product Meta"
+msgstr ""
+
+#: functions.php:202
+msgid "This widget is displayed on the product page after meta data, e.g. SKU."
+msgstr ""
+
+#: functions.php:212
+msgid "Product Area Collapse"
+msgstr ""
+
+#: functions.php:214
+msgid "This widget is displayed inside single product page as a dropdown option. The widget title will be used as the dropdown label"
+msgstr ""
+
+#: functions.php:225
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:227
+#: functions.php:239
+#: functions.php:251
+#: functions.php:263
+#: functions.php:275
+msgid "This widget appears in your footer."
+msgstr ""
+
+#: functions.php:237
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:249
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:261
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:273
+msgid "Footer 5"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#. translators: Copyright date format, see https://secure.php.net/date
+#: inc/customizer/customizer-functions.php:78
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/inc/custom-controls.php:377
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:43
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:59
+#: inc/customizer/inc/customizer.php:60
+#: inc/customizer/inc/customizer.php:181
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:71
+#: inc/customizer/inc/customizer.php:72
+msgid "Header Buttons"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:83
+msgid "Header Logo Size"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:84
+msgid "Header Logo Size and Padding. To add a logo image, navigate to the Site Identity section."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:95
+msgid "Header Menu"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:96
+msgid "Header Menu & Colours"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:105
+msgid "Header Top Bar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:106
+msgid "Add header top bar."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:115
+msgid "Hero & Slider"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:116
+msgid "Add Hero or Slider."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:127
+#: template-parts/footer/widgets.php:58
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:128
+msgid "Footer settings"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:139
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:151
+msgid "Post / Pages"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:182
+msgid "Layout for the header."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:187
+msgid "Logo Left"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:191
+msgid "Logo Center"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:195
+msgid "Logo Right"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:199
+msgid "Logo Left & Search Left"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:203
+msgid "Logo Left & Menu Left"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:224
+msgid "Search Button"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:245
+msgid "CTA Button"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:265
+msgid "Position Right"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:284
+msgid "CTA URL"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:290
+msgid "Enter URL Link..."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:308
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:314
+msgid "Enter Text..."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:347
+msgid "Adjust Logo Size"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:373
+msgid "Adjust Logo Padding"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:397
+msgid "Logo alignment"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:400
+#: inc/customizer/inc/customizer.php:514
+#: inc/customizer/inc/customizer.php:1320
+#: inc/customizer/inc/customizer.php:1347
+#: inc/customizer/inc/customizer.php:1643
+#: inc/customizer/inc/customizer.php:2020
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:401
+#: inc/customizer/inc/customizer.php:1321
+#: inc/customizer/inc/customizer.php:1348
+#: inc/customizer/inc/customizer.php:1644
+#: inc/customizer/inc/customizer.php:2021
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:402
+#: inc/customizer/inc/customizer.php:516
+#: inc/customizer/inc/customizer.php:1322
+#: inc/customizer/inc/customizer.php:1349
+#: inc/customizer/inc/customizer.php:1645
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:422
+msgid "Uppercase Text"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:444
+msgid "Menu Background Colour"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:464
+msgid "Menu background colour other than the default (#ffffff) is not recommended for Header Layout 5."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:465
+msgid "If your upper menu items are more than 6 and you are using the Header Layout 5,  menu items will not be on the same line on medium screen. Please consider switching back to the default background menu color or minimize your menu items. REASONS: Background not looking good with menu more then 6 on medium screen, e.g, Ipad pro."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:489
+msgid "Foreground Colour"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:510
+msgid "Menu items alignment"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:515
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:517
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:537
+msgid "Top and Bottom Padding"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:562
+msgid "Menu Item Margin"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:587
+msgid "Border Top"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:607
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:627
+msgid "Show on Small Device"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:646
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:664
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:686
+msgid "Right Item"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:690
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:691
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:710
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:714
+msgid "Enter Button Text..."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:731
+msgid "URL"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:735
+msgid "Enter Url e.g: http://example.com"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:755
+#: inc/customizer/inc/customizer.php:865
+msgid "Social URLs"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:756
+#: inc/customizer/inc/customizer.php:866
+msgid "Add your social media links."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:759
+#: inc/customizer/inc/customizer.php:869
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:780
+msgid "Social Icon Background"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:804
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:805
+msgid "Show your logo in footer. Logo appears before the footer widget area. MUST have at least 1 footer widget for this to show."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:824
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:825
+msgid "If the Privacy policy page is detected, the link will be added to the footer."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:845
+msgid "Footer Social URLs"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:891
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:892
+msgid "Copyright text to be displayed in the footer. No HTML allowed."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:917
+msgid "Theme Credit"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:941
+msgid "Hero / Slider"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:944
+msgid "Hero"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:945
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:946
+#: inc/customizer/inc/customizer.php:1670
+msgid "None"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:966
+msgid "Use default banner image"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:987
+msgid "Upload Hero Image"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1012
+msgid "Slider source"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1036
+msgid "Enter post IDs separated by commas"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1037
+msgid "Enter 3 post ids, each post ID should be separated by commas."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1076
+msgid "Set slider page 1"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1077
+#: inc/customizer/inc/customizer.php:1088
+#: inc/customizer/inc/customizer.php:1099
+msgid "Select a page from the dropdown below."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1087
+msgid "Set slider page 2"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1098
+msgid "Set slider page 3"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1120
+msgid "Use custom link and button"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1158
+msgid "Button 1"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1159
+msgid "Enter text for the slide button 1"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1169
+msgid "Button 2"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1170
+msgid "Enter text for the slide button 2"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1180
+msgid "Button 3"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1181
+msgid "Enter text for the slide button 3"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1218
+msgid "URL 1"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1219
+msgid "Enter link for slide 1"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1229
+msgid "URL 2"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1230
+msgid "Enter link for slide 2"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1240
+msgid "URL 3"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1241
+msgid "Enter link for slide 3"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1262
+msgid "Banner Height"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1289
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1290
+msgid "Adjust the image overlay opacity"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1317
+msgid "Content Container Align"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1344
+msgid "Content Align"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1371
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1392
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1415
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1437
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1463
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1484
+msgid "Border Box Shadow"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1495
+msgid "Build Your Dream Website with Paddle"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1505
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1518
+msgid "Let's improve the way you see business."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1528
+msgid "Banner description"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1541
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1551
+msgid "Button 1 Label"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1573
+msgid "Button 1 URL Link"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1595
+msgid "Button 2 Label"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1617
+msgid "Button 2 URL Link"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1640
+msgid "Button Position"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1665
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1668
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1669
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1690
+msgid "Arrow Button"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1710
+msgid "This will move the content up close to the banner. It can be adjusted below."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1711
+msgid "Shift Content Up"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1732
+msgid "If the banner covers the button, try increase or decrease the position of the content for better result."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1733
+msgid "Adjust content over banner position"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1761
+msgid "Post / Page Layout"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1766
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1770
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1774
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1797
+msgid "WooCommerce Product Sidebar"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1818
+msgid "Post Achieve"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1821
+msgid "Toggle post layout for category page, achieve page, tag page. This layout also applies to homepage."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1823
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1824
+msgid "List"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1843
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1848
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1849
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1869
+msgid "Image before site title"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1890
+msgid "Same Height Image (Grid)"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1911
+msgid "Expand Grid Image"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1932
+msgid "Use placeholder image"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1953
+msgid "Hide Footer Meta"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1955
+msgid "Hide tag and category links on category page and achieve page."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1974
+msgid "Enable author link info"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1975
+msgid "Hide or show author link in single post after the title"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1995
+msgid "Solid Line Before Title"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:1996
+msgid "Add solid line before header 1 and header 2 (h1 and h2)"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2016
+msgid "Page / Post Title Header, Meta & Description"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2041
+msgid "Post Featured Image Size"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2045
+msgid "480 x 360"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2046
+msgid "600 x 600"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2047
+msgid "760 x 400"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2048
+msgid "800 x 600"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2049
+msgid "1020 x 600"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2050
+msgid "1410 x 600"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2051
+msgid "1320 x 990"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2072
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2073
+msgid "Change the font size of your site title."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2099
+msgid "Enable Blog Excerpt."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2100
+msgid "Enable to show excerpt on posts and home page. Category and Home Page (ONLY)"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2120
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2121
+msgid "Automatically generated excerpt length (in words)."
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2135
+msgid "Continue reading X"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2145
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/inc/customizer.php:2169
+msgid "Primary Color"
+msgstr ""
+
+#: inc/template-functions.php:132
+#: inc/template-functions.php:133
+msgid "Search for:"
+msgstr ""
+
+#: inc/template-functions.php:134
+#: inc/template-functions.php:499
+#: template-parts/header/style-1.php:24
+#: template-parts/header/style-2.php:35
+msgid "Search"
+msgstr ""
+
+#: inc/template-functions.php:244
+msgid "Follow me on Behance"
+msgstr ""
+
+#: inc/template-functions.php:250
+msgid "Fork me on Bitbucket"
+msgstr ""
+
+#: inc/template-functions.php:256
+msgid "Follow me on CodePen"
+msgstr ""
+
+#: inc/template-functions.php:262
+msgid "Watch me on DeviantArt"
+msgstr ""
+
+#: inc/template-functions.php:268
+msgid "Join me on Discord"
+msgstr ""
+
+#: inc/template-functions.php:274
+msgid "Follow me on Dribbble"
+msgstr ""
+
+#: inc/template-functions.php:280
+msgid "favorite me on Etsy"
+msgstr ""
+
+#: inc/template-functions.php:286
+msgid "Like me on Facebook"
+msgstr ""
+
+#: inc/template-functions.php:292
+msgid "Connect with me on Flickr"
+msgstr ""
+
+#: inc/template-functions.php:298
+msgid "Follow me on Foursquare"
+msgstr ""
+
+#: inc/template-functions.php:304
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: inc/template-functions.php:310
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: inc/template-functions.php:316
+msgid "Back me on Kickstarter"
+msgstr ""
+
+#: inc/template-functions.php:322
+msgid "Follow me on Last.fm"
+msgstr ""
+
+#: inc/template-functions.php:328
+msgid "Connect with me on LinkedIn"
+msgstr ""
+
+#: inc/template-functions.php:334
+msgid "Follow me on Medium"
+msgstr ""
+
+#: inc/template-functions.php:340
+msgid "Support me on Patreon"
+msgstr ""
+
+#: inc/template-functions.php:346
+msgid "Follow me on Pinterest"
+msgstr ""
+
+#: inc/template-functions.php:352
+msgid "Connect with me on Google+"
+msgstr ""
+
+#: inc/template-functions.php:358
+msgid "Join me on Reddit"
+msgstr ""
+
+#: inc/template-functions.php:364
+msgid "Join me on Slack"
+msgstr ""
+
+#: inc/template-functions.php:370
+msgid "Follow me on SlideShare"
+msgstr ""
+
+#: inc/template-functions.php:376
+msgid "Add me on Snapchat"
+msgstr ""
+
+#: inc/template-functions.php:382
+msgid "Follow me on SoundCloud"
+msgstr ""
+
+#: inc/template-functions.php:388
+msgid "Follow me on Spotify"
+msgstr ""
+
+#: inc/template-functions.php:394
+msgid "Join me on Stack Overflow"
+msgstr ""
+
+#: inc/template-functions.php:400
+msgid "Follow me on Tumblr"
+msgstr ""
+
+#: inc/template-functions.php:406
+msgid "Follow me on Twitch"
+msgstr ""
+
+#: inc/template-functions.php:412
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/template-functions.php:418
+msgid "Follow me on Vimeo"
+msgstr ""
+
+#: inc/template-functions.php:424
+msgid "Follow me on weibo"
+msgstr ""
+
+#: inc/template-functions.php:430
+msgid "Subscribe to me on YouTube"
+msgstr ""
+
+#: inc/template-functions.php:506
+#: inc/template-functions.php:509
+#: inc/template-functions.php:583
+#: inc/template-functions.php:585
+#: inc/template-functions.php:697
+msgid "Close"
+msgstr ""
+
+#: inc/template-functions.php:563
+msgid "Powered by "
+msgstr ""
+
+#: inc/template-functions.php:563
+msgid "WordPress. Designed by A. Kusimo"
+msgstr ""
+
+#: inc/template-functions.php:693
+msgid "Site Navigation"
+msgstr ""
+
+#: inc/template-functions.php:694
+msgid "Menu"
+msgstr ""
+
+#: inc/template-functions.php:698
+msgid "Close menu"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+#: inc/template-tags.php:65
+#: inc/template-tags.php:87
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:50
+#: inc/template-tags.php:70
+#: inc/template-tags.php:90
+msgid "Posted in"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:108
+msgid "Tagged"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:122
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:156
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:173
+#: template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/woocommerce.php:176
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:180
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:237
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce.php:241
+msgid "Sign in"
+msgstr ""
+
+#: inc/woocommerce.php:339
+msgid "Short Description"
+msgstr ""
+
+#: inc/woocommerce.php:361
+msgid "Additional Information"
+msgstr ""
+
+#. translators: %1$s%2$0.2f: total savings amount, %3$s percentages
+#: inc/woocommerce.php:422
+msgid "You save %1$s%2$0.2f (%3$s)"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width No Margin"
+msgstr ""
+
+#: page-templates/fullwidth-no-margin.php:30
+#: page-templates/fullwidth-no-title.php:30
+#: page-templates/fullwidth-page.php:30
+#: singular.php:29
+msgid "Previous:"
+msgstr ""
+
+#: page-templates/fullwidth-no-margin.php:31
+#: page-templates/fullwidth-no-title.php:31
+#: page-templates/fullwidth-page.php:31
+#: singular.php:30
+msgid "Next:"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width No Title"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25
+#: template-parts/content.php:85
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:71
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: %s: Author name.
+#: template-parts/header/featured-header-image.php:41
+msgid "By %s"
+msgstr ""
+
+#: template-parts/header/featured-header-image.php:67
+msgctxt "post author"
+msgid "By"
+msgstr ""
+
+#: template-parts/header/site-slider.php:102
+msgid "Previous slide"
+msgstr ""
+
+#: template-parts/header/site-slider.php:109
+msgid "Next slide"
+msgstr ""
+
+#: template-parts/header/style-1.php:28
+#: template-parts/header/style-2.php:41
+msgid "Open Menu"
+msgstr ""

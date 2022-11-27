@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Paddle 1.2.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/paddle\n"
 "POT-Creation-Date: 2022-11-08T21:33:43+00:00\n"
-"PO-Revision-Date: 2022-11-27 17:58+0100\n"
+"PO-Revision-Date: 2022-11-27 18:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -836,7 +836,7 @@ msgstr "Weiter lesen"
 
 #: inc/customizer/inc/customizer.php:2145
 msgid "Read More Text"
-msgstr ""
+msgstr "Weiter lesen"
 
 #: inc/customizer/inc/customizer.php:2169
 msgid "Primary Color"
@@ -1088,13 +1088,13 @@ msgstr ""
 #: page-templates/fullwidth-no-title.php:30
 #: page-templates/fullwidth-page.php:30 singular.php:29
 msgid "Previous:"
-msgstr ""
+msgstr "Zurück:"
 
 #: page-templates/fullwidth-no-margin.php:31
 #: page-templates/fullwidth-no-title.php:31
 #: page-templates/fullwidth-page.php:31 singular.php:30
 msgid "Next:"
-msgstr ""
+msgstr "Vor:"
 
 #. Template Name of the theme
 msgid "Full Width No Title"

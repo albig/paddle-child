@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Paddle 1.2.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/paddle\n"
 "POT-Creation-Date: 2022-11-08T21:33:43+00:00\n"
-"PO-Revision-Date: 2022-11-14 22:44+0100\n"
+"PO-Revision-Date: 2022-11-27 17:58+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -831,8 +831,8 @@ msgid "Automatically generated excerpt length (in words)."
 msgstr ""
 
 #: inc/customizer/inc/customizer.php:2135
-msgid "Continue reading X"
-msgstr ""
+msgid "Continue reading"
+msgstr "Weiter lesen"
 
 #: inc/customizer/inc/customizer.php:2145
 msgid "Read More Text"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: inc/template-functions.php:132 inc/template-functions.php:133
 msgid "Search for:"
-msgstr "Suche nach: "
+msgstr "Suche nach:"
 
 #: inc/template-functions.php:134 inc/template-functions.php:499
 #: template-parts/header/style-1.php:24 template-parts/header/style-2.php:35
@@ -1019,7 +1019,7 @@ msgstr ""
 #. translators: 1: list of categories.
 #: inc/template-tags.php:50 inc/template-tags.php:70 inc/template-tags.php:90
 msgid "Posted in"
-msgstr "Veröffentlicht in "
+msgstr "Veröffentlicht in"
 
 #. translators: used between list items, there is a space after the comma
 #: inc/template-tags.php:105
@@ -1138,7 +1138,7 @@ msgstr "Seiten:"
 #. translators: %s: Name of current post. Only visible to screen readers
 #: template-parts/content.php:71
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr ""
+msgstr "Weiter lesen<span class=\"screen-reader-text\"> \"%s\"</span>"
 
 #. translators: %s: Author name.
 #: template-parts/header/featured-header-image.php:41

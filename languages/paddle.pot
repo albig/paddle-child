@@ -810,7 +810,7 @@ msgid "Automatically generated excerpt length (in words)."
 msgstr ""
 
 #: inc/customizer/inc/customizer.php:2135
-msgid "Continue reading X"
+msgid "Continue reading"
 msgstr ""
 
 #: inc/customizer/inc/customizer.php:2145

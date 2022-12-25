@@ -48,5 +48,11 @@ figure.wp-block-gallery.has-nested-images {
 
 /* make hamburger menu in mobile green - even in dark mode */
 .toggler button.navbar-toggler span {
-        background-color: #5fa031;;
+        background-color: #5fa031;
+}
+
+/* green left border in blockquotes */
+blockquote.wp-block-quote {
+        border-left: .25em solid #5fa031;
+        font-size: 1.4em;
 }

@@ -19,4 +19,12 @@ function enqueue_styles() {
 
 add_action( 'wp_enqueue_scripts', 'enqueue_styles' );
 
-
+function rss_post_thumbnail($content) {
+global $post;
+if (has_post_thumbnail($post->ID)) {
+	$content = "\n" . '<p>' . get_the_post_thumbnail($post->ID) . '</p>' . "\n" . get_the_content();
+}
+return $content;
+}
+add_filter('the_excerpt_rss', 'rss_post_thumbnail');
+add_filter('the_content_feed', 'rss_post_thumbnail');

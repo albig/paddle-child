@@ -28,3 +28,18 @@ return $content;
 }
 add_filter('the_excerpt_rss', 'rss_post_thumbnail');
 add_filter('the_content_feed', 'rss_post_thumbnail');
+
+function west_header() {
+
+echo '
+ <script type="application/ld+json">
+  {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Dresdens Grüner Westen",
+      "url" : "https://www.dresden-west.de/"
+    }
+  </script>
+';
+};
+add_action( 'wp_head', 'west_header' );

@@ -110,6 +110,7 @@ body,button,input,select,optgroup,textarea {
         font-size: 1em;
 }
 
+/* nicer select box */
 select[name="archive-dropdown"] {
         width: 100%;
         font-size: 1.15rem;
@@ -133,3 +134,20 @@ select[name="archive-dropdown"] {
         padding: 1rem;
         padding-right: 2rem;
 }
+
+/* set osm styles again to overwrite paddle */
+.ol-control button:not(.btn),
+.ol-control button:not(.btn-close) {
+        display: block;
+        margin: 1px;
+        padding: 0;
+        color: var(--ol-subtle-foreground-color);
+        font-weight: bold;
+        text-decoration: none;
+        text-align: center;
+        height: 1.375em;
+        width: 1.375em;
+        background-color: var(--ol-background-color);
+        border: none;
+        border-radius: 2px;
+    }

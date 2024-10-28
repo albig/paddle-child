@@ -37,6 +37,7 @@ echo '
       "@context" : "https://schema.org",
       "@type" : "WebSite",
       "name" : "Dresdens Grüner Westen",
+      "alternateName" : "Dresdens Grüner Westen",
       "url" : "https://www.dresden-west.de/"
     }
   </script>

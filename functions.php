@@ -30,7 +30,6 @@ add_filter('the_excerpt_rss', 'rss_post_thumbnail');
 add_filter('the_content_feed', 'rss_post_thumbnail');
 
 function west_header() {
-
 echo '
  <script type="application/ld+json">
   {
@@ -44,3 +43,19 @@ echo '
 ';
 };
 add_action( 'wp_head', 'west_header' );
+
+// change separator in title tag
+add_filter ('document_title_separator', 'paddle_document_title_separator') ;
+function paddle_document_title_separator ($sep)
+{
+    return ('-') ;
+}
+
+// remove tagline from document title tag
+add_filter ('document_title_parts', 'paddle_document_title_parts');
+function paddle_document_title_parts($title_parts_array) {
+
+  $title_parts_array['tagline'] = '';
+
+  return $title_parts_array;
+}
